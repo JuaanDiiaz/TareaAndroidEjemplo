@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MiPrimerAppAndroid</string>
+    <string name="activity_principal">activity 1</string>
+    <string name="text_intent">intent explicito</string>
+    <string name="second_view">second view</string>
+    <string name="text_Toast">toast</string>
+    <string name="text_Snackbar">snackbar</string>
+    <string name="text_Dialog">dialog</string>
+    <string name="text_url">url</string>
+    <string name="text_mapa">mapa</string>
+    <string name="text_llamada">llmada</string>
+    <string name="text_email">email</string>
+</resources>
